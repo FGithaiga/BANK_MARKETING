@@ -9,6 +9,15 @@ The project involves data loading, exploration, cleaning, visualization, and pre
 The goal of this project is to **predict whether a customer will subscribe to a term deposit** based on historical marketing data collected from a Portuguese banking institution.  
 This classification task helps marketing teams improve campaign targeting, reduce costs, and increase conversion rates by identifying the most likely respondents.
 
+## **OBJECTIVES**
+1. To determine the possibility of a client bank deposit subscription.
+
+2. To improve the efficiency of future marketing campaigns.
+
+3. To determine whether demographics affects bank deposit subscription.
+
+4. To understand how Socioeconomic indicators affect bank deposit subscription.
+
 
 # DATA UNDERSTANDING
 The dataset, sourced from the UCI Machine Learning Repository, includes customer information such as:
